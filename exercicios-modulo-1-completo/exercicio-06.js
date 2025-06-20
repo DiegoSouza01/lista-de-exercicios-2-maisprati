@@ -4,3 +4,5 @@
     anteriores de fn (por argumentos), retornando resultados instantâneos em
     repetidas invocações.
 */
+
+const prompt = require ('prompt-sync')();

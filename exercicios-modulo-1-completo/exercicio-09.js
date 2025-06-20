@@ -7,3 +7,5 @@
     ○ objetoParaPares(obj) faz o inverso, retornando um array de
     pares.
 */
+
+const prompt = require ('prompt-sync')();

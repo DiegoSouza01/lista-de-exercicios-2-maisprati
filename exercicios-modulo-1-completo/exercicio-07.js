@@ -4,3 +4,5 @@
     retorne um novo array apenas com os nomes, ordenados por preço
     crescente, usando map, sort.
 */
+
+const prompt = require ('prompt-sync')();

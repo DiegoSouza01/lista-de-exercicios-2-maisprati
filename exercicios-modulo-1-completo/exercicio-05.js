@@ -4,3 +4,5 @@
     em ms, retornando uma nova função que só executa fn se não for
     chamada novamente dentro do intervalo.
 */
+
+const prompt = require ('prompt-sync')();
